@@ -8,8 +8,6 @@ Download your reading data from Bookmeter(読書メーター)
 
 
 ## Demo
-- Input
-  - LJL-stats.csv
 - Output
 ```
 Date, Title, Page
